@@ -20,7 +20,7 @@
 
 ### Service: Spring Boot 2.3.1
 ### Database: Mysql 8.0.18 +
-### Website Vue 4.1.1
+### Website: Vue 4.1.1
 ### Ui BootStrap-vue Elemene UI
 
 ## 技术划分
