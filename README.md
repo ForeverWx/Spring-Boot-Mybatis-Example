@@ -1,4 +1,4 @@
-# Spring-Boot-Mybatis-Example <br> <br>
+# Spring-Boot+ Mybatis-Example <br> <br>
 
 
 #### Spring Boot 配置 Mybatis 开发框架
@@ -79,11 +79,12 @@
 ## 功能预览
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200702174416887.gif)
+<br>
  
 [相关技术实现参考](https://blog.csdn.net/ForeverBana)
 
 [Spring Boot + Mybatis 项目环境搭建 教程](https://blog.csdn.net/ForeverBana/article/details/107088720)
 
-[Spring Boot + Mybatis 增删改查 实例](https://blog.csdn.net/ForeverBana/article/details/107091660) 
+[Spring Boot + Mybatis 增删改查 实例 教程](https://blog.csdn.net/ForeverBana/article/details/107091660) 
 
 
